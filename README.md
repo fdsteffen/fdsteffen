@@ -1,7 +1,9 @@
 <img src=header.png/>
 
-<a href="https://ch.linkedin.com/in/fabio-steffen" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://orcid.org/0000-0001-8795-2212" target="blank"><img align="center" src="https://img.shields.io/badge/orcid%20-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<p align="center">
+<a href="https://ch.linkedin.com/in/fabio-steffen" target="blank"><p align="center"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://orcid.org/0000-0001-8795-2212" target="blank"><img src="https://img.shields.io/badge/orcid%20-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white"/></a>
+</p>
 
 Working at the intersections of chemistry, physics and biology, I integrate multimodal data from **single-molecule microscopy** and **molecular modeling** to explore the folding landscapes of large RNAs. 
 
