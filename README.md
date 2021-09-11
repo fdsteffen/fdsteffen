@@ -21,7 +21,7 @@ To this end, I have been developing frameworks to simulate fluorescence spectros
 &rarr; click to expand
 
 <details>
-<summary>F. D. Steffen, R. K. O. Sigel, R. Börner, R. K. O. Sigel, <i>Nat. Commun.</i> (2020) <a href="https://doi.org/10.1093/bioinformatics/btab615"><img src="https://img.shields.io/badge/DOI-10.1093/bioinformatics/btab615-blue.svg?&style=flat-square"/></a></summary>
+<summary>F. D. Steffen, R. K. O. Sigel, R. Börner, <i>Bioinformatics</i> (2021) <a href="https://doi.org/10.1093/bioinformatics/btab615"><img src="https://img.shields.io/badge/DOI-10.1093/bioinformatics/btab615-blue.svg?&style=flat-square"/></a></summary>
 <br><p align="center"><img src=graphical_abstracts/Steffen_Bioinformatics_2021.jpg width=500px></p>
 <h3>FRETraj: integrating single-molecule spectroscopy with molecular dynamics</h3>
 Quantitative interpretation of single-molecule FRET experiments requires a model of the dye dynamics to link experimental energy transfer efficiencies to distances between atom positions. We have developed FRETraj, a Python module to predict FRET distributions based on accessible-contact volumes (ACV) and simulated photon statistics.
