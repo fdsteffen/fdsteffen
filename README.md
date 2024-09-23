@@ -5,9 +5,9 @@
 <a href="https://orcid.org/0000-0001-8795-2212" target="blank"><img src="https://img.shields.io/badge/orcid%20-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white"/></a>
 </p>
 
-Working at the intersections of chemistry, physics and biology, I integrate multimodal data from **single-molecule microscopy** and **molecular modeling** to explore the folding landscapes of large RNAs. 
+Biochemist turned data scientist exploring new avenues of functional precision medicine in childhood leukemia. 🏥 💊 👨‍💻
 
-To this end, I have been developing frameworks to simulate fluorescence spectroscopy experiments *in silico*. Some recent projects are featured below. For an extended list visit [RNA-FRETools](https://github.com/RNA-FRETools).
+Previously, I have been working at the intersections of chemistry, physics and biology, where I integrated multimodal data from **single-molecule microscopy** and **molecular modeling** to explore the folding landscapes of large RNAs. To this end, I was developing frameworks to simulate fluorescence spectroscopy experiments *in silico*. Some projects are featured below. For an extended list visit [RNA-FRETools](https://github.com/RNA-FRETools).
 
 ## Featured Projects
 
@@ -62,3 +62,7 @@ Labeling of long RNA molecules in a site-specific yet generally applicable manne
 <h3>An atomistic view on carbocyanine photophysics in the realm of RNA</h3>
 Carbocyanine dyes have a long-standing tradition in fluorescence imaging and spectroscopy, due to their photostability and large spectral separation between individual dye species. Herein, we explore the versatility of cyanine dyes to probe the dynamics of nucleic acids and we report on the interrelation of fluorophores, RNA, and metal ions, namely K(+) and Mg(2+). Photophysical parameters including the fluorescence lifetime, quantum yield and dynamic anisotropy are monitored as a function of the nucleic acid composition, conformation, and metal ion abundance. Occasional excursions to a non-fluorescent cis-state hint at the remarkable sensitivity of carbocyanines to their local environment. Comparison of time-correlated single photon experiments with all-atom molecular dynamics simulations demonstrate that the propensity of photoisomerization is dictated by sterical constraints imposed on the fluorophore. Structural features in the vicinity of the dye play a crucial role in RNA recognition and have far-reaching implications on the mobility of the fluorescent probe. An atomic level description of the mutual interactions will ultimately benefit the quantitative interpretation of single-molecule FRET measurements on large RNA systems.
 </details>
+
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fdsteffen)](https://github.com/fdsteffen/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fdsteffen))](https://github.com/fdsteffen/github-readme-stats)
